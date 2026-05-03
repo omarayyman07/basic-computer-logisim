@@ -1,4 +1,4 @@
-# 💻 Basic Computer Design (Logisim)
+<img width="790" height="900" alt="image" src="https://github.com/user-attachments/assets/d70c9dae-60eb-4328-ac04-1f3f021c6b33" /># 💻 Basic Computer Design (Logisim)
 
 A simulation of a basic computer system implemented using Logisim, including memory, registers, ALU, and a shared bus architecture.
 
@@ -55,3 +55,21 @@ Memory initialized as:
 | 4 | 0 |
 
 Final result:
+
+M[4] = -5
+
+## 📊 Screenshots
+
+<img width="790" height="900" alt="Shared Bus" src="https://github.com/user-attachments/assets/b447597b-33cd-488c-974c-4afa04105531" />
+
+
+
+## 🛠️ Tool
+
+- Logisim
+
+
+
+## 👨‍💻 Author
+
+Omar Ayman Elkhodary
